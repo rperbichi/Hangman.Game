@@ -1,5 +1,5 @@
 /*
- * BYU OIT Code challenge
+ * BYU OIT Code Challenge
  * Name: Raul Perbichi
  * Date: 03/09/2023
  * Start Time: 6:47PM
