@@ -1,0 +1,3 @@
+/Users/raulperbichi/Desktop/Hangman.Game/cmake-build-debug/CMakeFiles/HangmanGame.dir
+/Users/raulperbichi/Desktop/Hangman.Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/raulperbichi/Desktop/Hangman.Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+# ninja log v5
+3	495	1678425612590096655	CMakeFiles/HangmanGame.dir/main.cpp.o	3dd2ce453af75520
+4	499	1678425612594755396	CMakeFiles/HangmanGame.dir/Hangman.cpp.o	46580bd36d9a6795
+499	549	1678425612647141964	HangmanGame	c1ecbcaaef303b1b
